@@ -1,4 +1,4 @@
-# DataScience1
+# Cars MPG 
 A market research company has created a data set on different popular cars in the world. You are approached to deliver the following data analytics products: 
 1. Data Exploration: Create one (or more if necessary) graph(s) which enables the user to pick different variables in the data set and explore their individual or group behavior 
 2. Develop a regression model to predict cars’ mpg based on other features 
